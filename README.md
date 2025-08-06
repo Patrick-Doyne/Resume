@@ -8,8 +8,8 @@
 
 DevOps-minded Software Engineer and M.S. Computer Science candidate (3.925/4.0 GPA)  
 at George Mason University, graduating Summer 2026. Balanced 20–30 hrs/week of part-time  
-technical roles alongside 30+ credits/semester. Expertise in backend systems, scalable  
-API design, low-level concurrency, and CI/CD pipelines.
+roles alongside full-time credits/semester. Expertise in backend systems, scalable  
+API design, low-level concurrency, and CI/CD pipelines. Eager to keep growing.
 
 ---
 
@@ -73,17 +73,16 @@ _May 2024_
 
 ---
 
-## COURSEWORK
+## COURSEWORK PIPELINE
 
-**Completed:**  
-- Distributed Systems  
-- Component-Based Software Dev  
-- Secure Software Design & Programming  
-- Data Warehousing & ETL  
-- Real-Time & Embedded Systems  
-- Algorithms & Data Structures  
+**Current (Fall 2025):**  
+- Distributed Systems 
+- Component-Based Software Dev 
+- Secure Software Design & Programming
 
-**In Progress (Fall 2025):**  
-Go • Angular • Node.js • Docker • Kubernetes • Jenkins • AWS EC2, S3, RDS
+**Planned (Spring 2026):**  
+- Distributed Software Engineering  
+- Software Design and Architecture  
+- Software Engineering for the World Wide Web  
 
 ---
