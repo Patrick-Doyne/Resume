@@ -1,6 +1,6 @@
 # Patrick Doyne
 ## DC Metro, VA | 703-295-2499 | pdoyne@gmu.edu  
-## GitHub: [github.com/Patrick-Doyne](https://github.com/Patrick-Doyne) | LinkedIn: [linkedin.com/in/patrick-doyne](https://www.linkedin.com/in/patrick-doyne/)
+## GitHub: [github.com/Patrick-Doyne](https://github.com/Patrick-Doyne/) | LinkedIn: [linkedin.com/in/patrick-doyne](https://www.linkedin.com/in/patrick-doyne/)
 
 ---
   
@@ -56,7 +56,7 @@ _May 2024_
 - Enforced car-first priority via per-route counters; achieved zero deadlocks in 1,000+ tests.
 
 **OS/161 Kernel Extensions** (C, Kernel Development)  
-- Implemented six core syscalls (`getpid`, `getppid`, `fork`, `execv`, `waitpid`, `exit`).  
+- Implemented six core syscalls (getpid, getppid, fork, execv, waitpid, exit).  
 - Passed 95%+ of 120 automated tests; handled trapframe duplication and address-space copying.
 
 **Task Manager** (C, UNIX)  
