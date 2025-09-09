@@ -7,32 +7,33 @@
 ## SUMMARY
 
 DevOps-minded Software Engineer and M.S. Computer Science candidate (3.925/4.0 GPA)  
-at George Mason University, graduating Summer 2026. Balanced 20–30 hrs/week of part-time  
-roles alongside full-time credits/semester. Expertise in backend systems, scalable  
-API design, low-level concurrency, and CI/CD pipelines. Eager to keep growing.
+at George Mason University, graduating Summer 2026. Balance 20–30 hrs/week of part-time  
+roles alongside full-time credits/semester. Eager to keep growing.
 
 ---
 
 ## TECHNICAL SKILLS
 
-**Languages:** C • Java • Python • JavaScript • SQL • Assembly  
+**Languages:**  
+- Java • SQL • C • Python _(intermediate)_
+- Go • Bash • JavaScript • CSS • HTML _(beginner)_
 
 **Frameworks & APIs:**  
-- Spring Boot • Maven • Express • Node.js _(coursework Fall 2025)_  
+- Spring-Boot/Maven/Java • Apache • Express/Node.js • NTP (legacy) • NTPsec • Chrony  _(beginner)_  
 
 **DevOps & Infrastructure:**  
-- Docker • Kubernetes • Jenkins _(coursework Fall 2025)_  
-- Git • CI/CD • Terraform (familiar)  
+- Docker • Kubernetes • Jenkins • Terraform • Grafana  _(coursework Fall 2025)_  
+- Git • CI/CD • IaC _(familiar)_  
 
-**Cloud Platforms:** AWS EC2, S3, RDS _(coursework Fall 2025)_  
+**Cloud Services:** AWS EC2, S3, RDS, IoT Core, Load Balancer _(beginner)_  
 
-**Databases:** MySQL • SQL Server • PostgreSQL (familiar)  
+**Databases:** MySQL • MS SQL Server   
 
 **Systems & Concurrency:** UNIX/Linux • Pthreads • Mutexes & Semaphores • GDB • Valgrind • OS/161  
 
-**Data & Visualization:** Pandas • NumPy • Matplotlib • Seaborn • Folium • Jupyter  
+**Data & Visualization:** Pandas • NumPy • Matplotlib • Seaborn • Folium   
 
-**Methodologies:** Agile • DevOps • SOLID Principles • RESTful API Design
+**Methodologies:** Agile • DevOps • SOLID Principles • RESTful API 
 
 ---
 
